@@ -1,0 +1,6 @@
+from datetime import datetime
+name = "Taras"
+
+print(f"{name} start programming at {datetime.now()}")
+
+Taras start programming at 2022-09-21 22:05:29.937832
