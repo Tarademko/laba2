@@ -1,0 +1,8 @@
+Перша програма на Python
+
+from datetime import datetime
+name = "Taras"
+
+print(f"{name} start programming at {datetime.now()}")
+
+Taras start programming at 2022-09-21 21:36:34.452724
